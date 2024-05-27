@@ -1,0 +1,8 @@
+.vs/
+_Temp/
+OldClasses/
+bin/
+TerrainGeneration/TempFiles/
+TempFiles/
+*.bmp
+*.log

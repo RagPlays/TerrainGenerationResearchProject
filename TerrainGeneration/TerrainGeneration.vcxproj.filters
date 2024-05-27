@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Renderer.h">
+      <Filter>Application</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorRGB.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="MathHelpers.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Noise.h">
+      <Filter>Application\Maps\Noise</Filter>
+    </ClInclude>
+    <ClInclude Include="NoiseMap.h">
+      <Filter>Application\Maps\Noise</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainMap.h">
+      <Filter>Application\Maps</Filter>
+    </ClInclude>
+    <ClInclude Include="MapLayerManager.h">
+      <Filter>Application\Maps</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="DataTypes.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Application</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Noise.cpp">
+      <Filter>Application\Maps\Noise</Filter>
+    </ClCompile>
+    <ClCompile Include="NoiseMap.cpp">
+      <Filter>Application\Maps\Noise</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainMap.cpp">
+      <Filter>Application\Maps</Filter>
+    </ClCompile>
+    <ClCompile Include="MapLayerManager.cpp">
+      <Filter>Application\Maps</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="DataTypes.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Application">
+      <UniqueIdentifier>{0539af28-5281-4414-bbf2-474cd881d36c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework">
+      <UniqueIdentifier>{949a7dc3-06bc-401e-b3cf-80638b7e535a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Application\Maps">
+      <UniqueIdentifier>{271d0cb2-7ecf-4a43-a939-b5090769736a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Application\Maps\Noise">
+      <UniqueIdentifier>{c2950904-41cc-49d5-bdc8-5affc311621b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
