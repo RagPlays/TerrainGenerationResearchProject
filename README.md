@@ -72,7 +72,7 @@ In the LayerShadowMap render mode it depends where the sun (mousePos) is located
 
 The window resolution is 720 x 480. Thats 345 600 pixels.
 
-Here are some average FPS benchmarks on my computer, ofcourse this is diffirent for every computer.
+Here are some average FPS benchmarks on my computer, ofcourse this is different for every computer.
 
 | RenderMode          | Debug              | Release            | Average Drop In %             |
 |  :------------:     | :-------------     | :------------      | :----------------:            |
