@@ -4,9 +4,9 @@
 In the beginning, I had many doubts about what kind of project I was going to choose. I came across a video by Sebastian Lague about terrain generation and found it very interesting.
 So now my research project is focused on generating a realistic 2D top-down map. Faking 3D with racasting shadows. (If I had experience with a 3D engine, I would have considered using it.)
 
-My first thought was to use the kevGen -> Win32 API engine made by Kevin. This would have given me good performance with only a little memory usage.
+My first thought was to use the kevGen -> Win32 API engine made by Kevin Hoefman. This would have given me good performance with only a little memory usage.
 But for my project, I needed a framework where manipulating every single pixel separately would be possible, so I changed my framework to the framework of my "graphic programming" lessons.
-The framework itself is very simple, but I built on it to create my research project.
+The framework itself is very simple, but I build onto it to create my research project.
 
 ## Features
 ### Perlin Noise Generator
